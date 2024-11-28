@@ -18,13 +18,12 @@ Running the Server
 
 Once the dependencies are installed, you can start the backend server:
 
-npm start
-
-    The server will run on http://localhost:5005.
-    The API will be available at http://localhost:5005.
+    npm start
+ The server will run on http://localhost:5005.
+ The API will be available at http://localhost:5005.
 
 Dependencies
 
-    json-server: A simple REST API generator for mock data.
-    json-server-auth: Authentication layer for json-server.
+ json-server: A simple REST API generator for mock data.
+ json-server-auth: Authentication layer for json-server.
     
